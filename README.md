@@ -1,6 +1,6 @@
 # Midbootcamp project of Data Analysis Bootcamp
 ### Tapas group: Ricardo, Carlos and Nara
-![image](https://user-images.githubusercontent.com/115892160/236526313-fce1a7d9-5ff7-413c-99c6-be2e4f334281.png)
+![image](https://user-images.githubusercontent.com/115892160/236526852-3f35ee94-5edc-4f4a-9fb6-24b27f308ec3.png)
 
 Here are the main results of our midbootcamp project, which consists of **the implementation of a regression model**.
 
