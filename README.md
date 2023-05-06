@@ -38,3 +38,7 @@ We are encouraged to use Python, Tableau and SQL:
 - SQL exercises and it results can be found [here](https://github.com/ainaraguerraf/Mid-project-tapas/tree/main/%F0%9F%94%8D%20SQL). Since we couldn't apload all the dataset to MySQL Workbench, ur approach to this part of the project was to use this part to analyze the segment of the houses that costs more that 650.000$. 
 - Our project presentation can be found [here](https://slides.com/ainaraguerra/minimal).
 For the specific project requirements, please click [here](https://github.com/ainaraguerraf/Mid-project-tapas/tree/main/%E2%9D%93Project-requirements). 
+
+# Conclusions
+
+Our model resulted to give good results and we learnt a lot along the way. We hope to find improvements in the future but (as you can see in the presentation) we tried to make this case study as real as possible and to proove that it could have real uses (as an price calculator).
